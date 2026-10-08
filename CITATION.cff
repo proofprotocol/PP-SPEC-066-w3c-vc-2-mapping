@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-066: Proof of Efficacy Mapping to W3C Verifiable Credentials Data Model v2.0"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-066-w3c-vc-2-mapping"
+abstract: "A Proof Protocol mapping specification defining how a ProofStamp authorization or a Proof Protocol proof verdict, bound to a ProofBundle and ProofRegister record, can be issued and presented as a W3C Verifiable Credential under the Verifiable Credentials Data Model v2.0, without changing what constitutes proof."
+keywords:
+  - "Proof Protocol"
+  - "Proof of Efficacy"
+  - "W3C"
+  - "Verifiable Credentials"
+  - "VC Data Model 2.0"
+  - "credentials"
+  - "decentralized identity"
+  - "ProofStamp"
+  - "interoperability"
+  - "evidence"
+  - "efficacy"
+  - "proof"
