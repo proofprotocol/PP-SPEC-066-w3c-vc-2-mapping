@@ -2,7 +2,7 @@
 
 **Status:** DRAFT v0.1
 **Author:** Craig Ellrod / Nebulonium, Inc. / HACKERverse®
-**License:** CC BY 4.0
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
 
 **Normative specification:** [`PP-SPEC-066-W3C-Verifiable-Credentials-Data-Model-2.0-Mapping.md`](./PP-SPEC-066-W3C-Verifiable-Credentials-Data-Model-2.0-Mapping.md)
 
