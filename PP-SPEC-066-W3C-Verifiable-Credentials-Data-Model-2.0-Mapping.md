@@ -116,7 +116,7 @@ The Verifiable Credentials Data Model v2.0 is external work of the World Wide We
 
 The Recommendation states that W3C "liability, trademark and permissive document license rules apply", and the permissive document license link resolves to the W3C *Software and Document license - 2023 version* (https://www.w3.org/copyright/software-license-2023/). That license permits copying, modifying, and distributing the work provided copies include the license NOTICE, any pre-existing notices, and a statement that the work "includes material copied from or derived from" the identified W3C document. The separate W3C Document License (2023) (https://www.w3.org/copyright/document-license-2023/) applies to W3C documents published under it and prohibits publication of derivative works for use as a technical specification; this mapping derives no text from the Recommendation under either license.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted, licensed with conditions, or access-controlled, contributors MUST NOT copy upstream normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used.
 
